@@ -18,13 +18,20 @@ p {
 
 a {
     font-size: 15px;
+    font-size: 15px;
+    font-family:Lexend Deca;
+    font-weight: 400;
 }
 
+img {
+    margin:50px;
+}
 h1 {
     color: hsl(0, 0%, 95%);
     margin-left: 100px;
     font-family:Big Shoulders Display;
     font-weight: 700;
+    font-size: 50px;
 }
 
 .cards {
